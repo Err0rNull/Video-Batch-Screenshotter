@@ -1,5 +1,5 @@
 # Video-Batch-Screenshotter
-Version: Alpha 01.01.00
+Version: Alpha 01.01.01
 
 
 Video Batch Screenshotter is a Python-based application that automates the process of extracting screenshots from multiple videos. It is designed with a user-friendly GUI using the Tkinter library, making it easy for users to interact with the program.
